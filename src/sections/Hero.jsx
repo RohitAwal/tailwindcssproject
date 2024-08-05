@@ -9,6 +9,7 @@ const Hero = () => {
         <p className="text-xl font-montserrat text-coral-red">Summer Collection</p>
         <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82] font-bold">
           <span>The New Arrival</span>
+          mcxbzcb
           <br />
           <span>Nike</span>
           Shoes
